@@ -8,7 +8,7 @@
 
 
 
-个人认为尚硅谷的讲解是最落寂清晰的，但是对于新手可能略有不友好；狂神说的是最通俗易懂的，可以从这里上手；黑马的内容是最全面的，包括一些gitignore文件的设置；\
+个人认为尚硅谷的讲解是最逻辑清晰的，但是对于新手可能略有不友好；狂神说的是最通俗易懂的，可以从这里上手；黑马的内容是最全面的，包括一些gitignore文件的设置；\
 
 # lfs大文件上传：
 【#3Git-LFS上传大文件【Git&Github使用指南】Large File Storage】 https://www.bilibili.com/video/BV19u411y7je/?share_source=copy_web&vd_source=a15bf79872932cfa3621190fe26036c6 \
